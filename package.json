@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "A React app deployed on GitHub Pages",
   "author": "Your Name",
-  "homepage": "",
+  "homepage": "https://jallohphilip-ub.github.io/gh-pages-react/",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
